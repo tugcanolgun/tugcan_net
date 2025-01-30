@@ -1,0 +1,5 @@
+.DS_Store
+release.zip
+.env
+public
+push_to_server.sh

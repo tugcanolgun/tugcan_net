@@ -1,0 +1,10 @@
+[submodule "themes/charlolamode"]
+	path = themes/charlolamode
+	url = https://github.com/charlola/hugo-theme-charlolamode.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
